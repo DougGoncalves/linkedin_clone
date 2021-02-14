@@ -35,23 +35,23 @@ function Header() {
       </div>
       <div className='header__right'>
         <HeaderOption
-          icon={HomeIcon} 
+          Icon={HomeIcon} 
           title="Home"
         />
         <HeaderOption
-          icon={SupervisorAccountIcon} 
+          Icon={SupervisorAccountIcon} 
           title="My Network"
         />
         <HeaderOption
-          icon={BusinessCenterIcon} 
+          Icon={BusinessCenterIcon} 
           title="Jobs"
         />
          <HeaderOption
-          icon={ChatIcon} 
+          Icon={ChatIcon} 
           title="Messaging"
         />
          <HeaderOption
-          icon={NotificationsIcon} 
+          Icon={NotificationsIcon} 
           title="Notifications"
         />
         <HeaderOption
