@@ -21,7 +21,7 @@
 
  ## 💻 Project
 
-Wanna see a live version ? Check it out: [Covid Tracker](https://linkedin-clone-3855f.web.app/).
+Wanna see a live version ? Check it out: [Linkedin Clone](https://linkedin-clone-3855f.web.app/).
 
  ---
 <h4 align="center">
